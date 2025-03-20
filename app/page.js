@@ -98,7 +98,7 @@ export default function Home() {
               </Typography>
               <Typography variant="h6" gutterBottom sx={{ color: "#5D4C46" }}>
                 Instantly turn your PDFs, Documents, Txt files, Notes into
-                flashcards with InsightInk. Our AI quickly generates a complete
+                flashcards with FlashMind. Our AI quickly generates a complete
                 set of flashcards in just seconds.{" "}
               </Typography>
               <Link href="/generate">
@@ -367,7 +367,7 @@ export default function Home() {
             AI Flashcard Generator
           </Typography>
           <Typography variant="body1" sx={{ color: "#5D4C46", mb: 6 }}>
-            Getting ready for a test, exam, or quiz? InsightInk`&#39;`s AI-powered
+            Getting ready for a test, exam, or quiz? FlashMind`&#39;`s AI-powered
             flashcard maker converts your pictures, notes, PDFs, PowerPoints,
             and other documents into flashcards automatically. Just upload your
             materials, and our AI will generate your flashcards in seconds.

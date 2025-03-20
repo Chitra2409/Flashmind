@@ -16,14 +16,14 @@ const Footer = () => {
             {/* Column 1: Company Info */}
             <Grid item xs={12} md={4}>
               <Typography variant="h6" gutterBottom sx={{ fontWeight: "bold" }}>
-                <span style={{ color: "#5D4C46" }}>Insight</span>
-                <span style={{ color: "#FF8B60" }}>Ink</span>
+                <span style={{ color: "#5D4C46" }}>Flash</span>
+                <span style={{ color: "#FF8B60" }}>Mind</span>
               </Typography>
               <Typography variant="body2" sx={{ color: "#5D4C46", mb: 2 }}>
                 Your go-to platform for AI-powered flashcards and study tools.
               </Typography>
               <Typography variant="body2" sx={{ color: "#5D4C46" }}>
-                &copy; {new Date().getFullYear()} InsightInk. All rights
+                &copy; {new Date().getFullYear()} FlashMind. All rights
                 reserved.
               </Typography>
             </Grid>

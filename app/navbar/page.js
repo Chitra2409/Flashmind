@@ -56,8 +56,8 @@ const Navbar = () => {
               style={{ marginRight: "10px" }}
             />
             <Link href="/" style={{ textDecoration: "none" }}>
-              <span style={{ color: "#5D4C46" }}>Insight</span>
-              <span style={{ color: "#FF8B60" }}>Ink</span>
+              <span style={{ color: "#5D4C46" }}>Flash</span>
+              <span style={{ color: "#FF8B60" }}>Mind</span>
             </Link>
           </Typography>
           {/* Links and User Options */}

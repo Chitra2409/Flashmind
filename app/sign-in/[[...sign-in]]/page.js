@@ -90,11 +90,11 @@ export default function SignUpPage() {
               color: "#5D4C46",
             }}
           >
-            Welcome To Insight<span style={{ color: "#FF8B60" }}>Ink</span>
+            Welcome To Flash<span style={{ color: "#FF8B60" }}>Mind</span>
           </Typography>
           <Typography variant="h6" gutterBottom sx={{ mt:3,pr:20, color: "#5D4C46" }}>
             Instantly turn your PDFs, Documents, Txt files, Notes into
-            flashcards with InsightInk. Our AI quickly generates a complete set
+            flashcards with FlashMind. Our AI quickly generates a complete set
             of flashcards in just seconds.{" "}
           </Typography>
         </Box>

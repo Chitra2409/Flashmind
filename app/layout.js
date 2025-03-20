@@ -10,7 +10,7 @@ const recursive = Inter({
 import Navbar from "./navbar/page";
 
 export const metadata = {
-  title: "InsightInk",
+  title: "FlashMind",
   description: "A website for creating flashcards with AI.",
 };
 
